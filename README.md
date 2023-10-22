@@ -34,7 +34,3 @@ Join us in making a difference today!
 
 ![Donate Blood, Save Lives](https://img.freepik.com/free-vector/blood-donation-symbol-with-hand-blood-bag_1308-115904.jpg?w=900&t=st=1697971171~exp=1697971771~hmac=065564cb839fc2bcd9ce3bf167e949d4a0490f43bce65adfd1fa4e9f7b7eca84)
 ![Donate Blood, Save Lives](https://img.freepik.com/free-vector/drop-red-blood-donor-day-concept-background_1017-19051.jpg?w=740&t=st=1697971230~exp=1697971830~hmac=d20b2094f56f5f96bbfc19fb4dbc6a3de9b2c951febad0d05600ce4757d20592)
-<<<<<<< HEAD
-
-=======
->>>>>>> c9c8883d774b6406b798164d113454f27b543a3e
